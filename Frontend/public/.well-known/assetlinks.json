@@ -1,0 +1,6 @@
+[{
+        "relation": ["delegate_permission/common.handle_all_urls"],
+        "target" : { "namespace": "android_app", "package_name": "app.railway.up.mongodb_crud_operation_production.twa",
+                     "sha256_cert_fingerprints": ["E3:9E:34:34:50:DA:8F:AD:02:8F:BF:E9:06:C4:A2:1E:34:5C:39:5E:D1:32:13:6B:21:82:4D:A2:C6:7F:8F:40"] }
+      }
+]

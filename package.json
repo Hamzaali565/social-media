@@ -1,0 +1,33 @@
+{
+  "name": "crud-operation-with-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.mjs",
+    "dev": "node --watch index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamzaali565/CRUD-Operation-With-Server.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamzaali565/CRUD-Operation-With-Server/issues"
+  },
+  "homepage": "https://github.com/Hamzaali565/CRUD-Operation-With-Server#readme",
+  "description": "",
+  "dependencies": {
+    "bcrypt-inzi": "^1.0.7",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.0",
+    "nanoid": "^4.0.0",
+    "node-modules": "^0.0.1",
+    "regex": "^0.1.1"
+  }
+}
